@@ -14,7 +14,9 @@
 
 
 ## Introduction
-This is an stock market trend prediction application which uses a deep learning model known as L.S.T.M (Long Short Term Memory) to forecast stock prices. I picked a very big data frame for accuracy of prediction, more reason, LSTM is very accurate with long term dependencies unlike ARIMA & FaceBook Prophet. My final project
+This is an stock market trend prediction application which uses a deep learning model known as L.S.T.M (Long Short Term Memory) to forecast stock prices. I picked a very big data frame for accuracy of prediction, more reason, LSTM is very accurate with long term dependencies unlike ARIMA & FaceBook Prophet. 
+
+My final year project 😄 
 
 
 You are free to visit https://iankaire-stock-market-trend-prediction.streamlit.app/on your desktop to find the hosted version of this app. I have commented my code for ease of understanding.
