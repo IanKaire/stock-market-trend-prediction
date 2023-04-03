@@ -18,8 +18,9 @@ This is an stock market trend prediction application which uses a deep learning 
 
 My final year project 😄 
 
-
 You are free to visit https://iankaire-stock-market-trend-prediction.streamlit.app/on your desktop to find the hosted version of this app. I have commented my code for ease of understanding.
+
+Once you access it you can choose your own theme, light, dark or custom ⚡
 
 Some of the libraries used include:
  
